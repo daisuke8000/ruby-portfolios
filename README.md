@@ -17,3 +17,5 @@ TrelloTaskの出力
 ### 参考情報
 - [YouTube](https://www.youtube.com/watch?v=4uYX5icZ9ao&list=RDCMUCzZiw3exu_81WvN3DKRNXTA&start_radio=1&t=0)
 - [GitHub](https://github.com/jeremytregunna/ruby-trello)
+### 注意（備忘録）
+API-Keyなどは期限が切れている可能性有り。事前確認要
