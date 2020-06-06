@@ -14,3 +14,6 @@ TrelloTaskの出力
 ### 改善内容
 - csv出力
 - インポート機能（別ファイルで実装？）
+### 参考情報
+- [YouTube](https://www.youtube.com/watch?v=4uYX5icZ9ao&list=RDCMUCzZiw3exu_81WvN3DKRNXTA&start_radio=1&t=0)
+- [GitHub](https://github.com/jeremytregunna/ruby-trello)
